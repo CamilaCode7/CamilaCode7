@@ -1,8 +1,9 @@
-### Ooiii ! Eu sou a Camila estudante de programação e tecnologia!
+### Ooiii ! Eu sou a Camila, estudante de programação e tecnologia!
 
 - 🔭 Atualmente estudando back-end
 - 🌱 Aprendendo Node.js Api-rest Banco de Dados.
-- 🤗 Adoro filmes e livros ainda mais se tiver com tempo nublado.
+- 🤗 Adoro filmes e livros ainda mais se tiver com tempinho de chuva.
+- 💻 Gosto bastante de tecnologia, e estou em busca de oportunidades.
 - 💬 Contato através do email camilafabiabh9@gmail.com
 
 <div align="center">
